@@ -1,0 +1,37 @@
+body {
+	background-color: #dddddd;
+}
+p {
+	text-align: center;
+}
+#weather-icon {
+	width: 50%;
+	height: 50%;
+	display: block;
+	margin: auto;
+}
+#city-weather {
+	/*padding: 0;*/
+}
+/*.container {
+	margin:0;
+}*/
+#widget-container {
+	/*width: 600px;
+	height: 500px;*/
+	background-color: #aaaaaa;
+	border-radius: 25px;
+	font-size: 200%;
+	margin: 0;
+}
+#weather-icon {
+
+}
+#city {
+	font-size: 150%;
+	margin: auto .5em;
+	float: center;
+}
+#weather {
+	font-size: 80%;
+}
